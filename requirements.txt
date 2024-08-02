@@ -1,0 +1,4 @@
+requests
+PyMySQL
+requests
+requests[socks]
